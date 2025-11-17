@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.Collections;
 
-public class Main {
+public class Question_1 {
     public static void main(String[] args) {
 
         ArrayList<String> list = new ArrayList<>();
