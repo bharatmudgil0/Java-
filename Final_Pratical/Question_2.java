@@ -1,7 +1,7 @@
 import java.sql.*;
 import java.util.Scanner;
 
-public class EmployeeJDBC {
+public class Question_2 {
 
     public static void main(String[] args) {
         String url = "jdbc:mysql://localhost:3306/emp";
